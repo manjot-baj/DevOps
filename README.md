@@ -1,2 +1,2 @@
 # DevOps
-Learning DevOps From IneuRon
+Learning DevOps
