@@ -1,0 +1,54 @@
+{
+    "Reservations": []
+}
+{
+    "Functions": []
+}
+{
+    "Users": [
+        {
+            "UserName": "manjot@snp",
+            "Arn": "arn:aws:iam::636246426151:user/manjot@snp",
+            "CreateDate": "2022-11-04T15:43:50Z",
+            "UserId": "AIDAZIIZ6AITQ5RXJEHJL",
+            "PasswordLastUsed": "2023-03-09T16:02:17Z",
+            "Path": "/"
+        }
+    ]
+}
+{
+    "Reservations": []
+}
+{
+    "Functions": []
+}
+{
+    "Users": [
+        {
+            "UserName": "manjot@snp",
+            "PasswordLastUsed": "2023-03-09T16:02:17Z",
+            "Arn": "arn:aws:iam::636246426151:user/manjot@snp",
+            "UserId": "AIDAZIIZ6AITQ5RXJEHJL",
+            "Path": "/",
+            "CreateDate": "2022-11-04T15:43:50Z"
+        }
+    ]
+}
+{
+    "Reservations": []
+}
+{
+    "Functions": []
+}
+{
+    "Users": [
+        {
+            "Arn": "arn:aws:iam::636246426151:user/manjot@snp",
+            "UserName": "manjot@snp",
+            "Path": "/",
+            "PasswordLastUsed": "2023-03-09T16:02:17Z",
+            "CreateDate": "2022-11-04T15:43:50Z",
+            "UserId": "AIDAZIIZ6AITQ5RXJEHJL"
+        }
+    ]
+}
